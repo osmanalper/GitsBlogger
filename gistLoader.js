@@ -1,6 +1,6 @@
 (function() {
     
-    var gistBloggerPath = "https://gist.github.com/osmanalper/e143dcd6a36116b53a67";
+    var gistBloggerPath = "https://github.com/osmanalper/GitsBlogger/blob/master/gistBlogger.js";
  
     // Initialize the load the main script.
     try {
